@@ -1,25 +1,10 @@
-Mike Ferguson
-Viktor Titenko
-Susan Sexton
-Dustin Bench
-Marolynne Webb
-Scott Vossler
-Jason Theis
-Aaron Botello
-Berry Kroeger
-Doug Smith
-Brett Mortensen
-Alta Wright
-Cody Schiemann
-Dennis Burke
-Bryan McAdams
-Joe DiCola
-Patrick Dunlap
-Brandon Hudson
-Chris Dodd
-Robert Christensen
-Marcelo Stefani
-Jim Murray
-Rodney Brown
-Chris Keener
-Jack Yi
+name1
+name2
+name3
+name4
+name5
+name6
+name7
+name8
+name9
+name10

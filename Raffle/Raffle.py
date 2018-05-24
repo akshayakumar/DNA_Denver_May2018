@@ -6,11 +6,12 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return "Flask App!"
+    return render_template(
+        'index.html', **locals())
 
 # @app.route("/hello/<string:name>")
-@app.route("/hello/<string:name>/")
-def hello(name):
+@app.route("/hello")
+def hello():
     #    return name
     lines = open("names.txt").readlines()
     quote = random.choice(lines)
